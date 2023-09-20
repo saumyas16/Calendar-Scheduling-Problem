@@ -1,1 +1,8 @@
-
+@misc{Saumya2023,
+  author = {Singh, Saumya},
+  title = {Development and Implementation of a Calendar Scheduling Algorithm},
+  year = {2023},
+  publisher = {GitHub},
+  journal = {University of Southampton},
+  howpublished = {\url{https://github.com/saumyas16/Calendar-Scheduling-Problem}}
+}
