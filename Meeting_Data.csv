@@ -1,0 +1,15 @@
+﻿Meeting Code,Duration (min),Priority,Recurrence (Week),Owner,Attendees (including the owner)
+1b,85,2,0.25,p1,p1 p2 p3
+1c,55,3,0.25,p1,p1 p2
+2a,50,5,1,p4,p4 p7 p8 p24 p25 p26 p27 p28 p29 p30 p31 p32 p33 p34 p35 p36
+3a,25,6,0.25,p1,p1 p2 p3 p4 p7 p8 p12 p14 p17
+3b,25,1,1,p2,p1 p2 p3 p4 p5 p7 p8 p9 p11 p12 p14 p15 p16 p17 p18 p19 p20 p21 p22 p23 p24 p25 p26 p27 p28 p29 p30 p31
+3f,50,7,0.5,p4 p2,p1 p2 p4 p18 p20 p24 p34
+3g,25,8,0.25,p14 p13,p1 p2 p3 p4 p5 p6 p7 p8 p12 p14 p15 p16
+2b,60,3,0.5,p3 p12,p3 p5 p12 p20 p21 p22 p23
+2d,30,11,1,p6,p32 p33 p34 p35 p36
+2e,45,9,1,p4,p1 p2 p3 p4 p5 p6 p7 p8 p12 p14 p20 p21 p22 p23
+4a,60,10,1,p4,p1 p2 p3 p4 p5 p7 p8 p9 p11 p12 p14 p15 p16 p17 p18 p19 p20 p21 p22 p23 p24 p25 p26 p27 p28 p29 p30 p31 p32 p33 p34 p35 p36
+4b,30,6,1,p1,p1 p2 p3 p4 p5 p6 p7 p8 p9 p11 p12 p14 p15 p16 p17 p18 p19 p20 p21 p22 p23 p24 p25 p26 p27 p28 p29 p30 p31 p32 p33 p34 p35 p36
+4e,30,7,1,p1 p2,p1 p2 p3 p4 p5 p7 p8 p9 p11 p12 p14 p15 p16 p17 p18 p19 p20 p21 p22 p23 p24 p25 p26 p27 p28 p29 p30 p31 p32 p33 p34 p35 p36
+4f,50,13,0.25,p3,p2 p3 p4 p5 p7 p8 p9 p11 p12 p14 p15 p16 p17 p18 p19 p20 p21 p22 p23 p24 p25 p26 p27 p28 p29 p30 p31 p32 p33 p34 p35 p36
