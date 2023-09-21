@@ -1,8 +1,11 @@
-@misc{Saumya2023,
-  author = {Singh, Saumya},
-  title = {Development and Implementation of a Calendar Scheduling Algorithm},
-  year = {2023},
-  publisher = {GitHub},
-  journal = {University of Southampton},
-  howpublished = {\url{https://github.com/saumyas16/Calendar-Scheduling-Problem}}
-}
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Singh"
+  given-names: "Saumya"
+  orcid: ""
+title: "Calendar Scheduling Algorithm"
+version: 
+doi: ""
+date-released: 2023-09-21
+url: "https://github.com/saumyas16/Calendar-Scheduling-Problem"
